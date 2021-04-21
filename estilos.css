@@ -1,0 +1,51 @@
+.envoltura{
+    width: 910px;
+    height: 810px;
+    margin: auto;
+    background-color: #d4d2ae;
+}
+
+.cabezera{
+    display: inline-block;
+    width: 910px;
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 5px;
+    margin-top: 20px;
+    
+}
+
+.cabezera img {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+}
+
+h1{
+    display: inline-block;
+    text-align: center;
+    margin: 0px 15px;
+    font-size: 40px;
+}
+
+.contenido{
+    padding: 30px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+.contenido img {
+    display: inline-block;
+    width: 130px;
+    height: 130px;
+    border: 5px black solid;
+    margin: 3px;
+    padding: 10px;
+    background-color: #f36870;
+    
+}
+
+.contenido .celeste{
+    padding: 10px;
+    background-color: #82b4ee;
+}
